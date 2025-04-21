@@ -1,3 +1,7 @@
 Numpy
 Pandas
 Flask
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
